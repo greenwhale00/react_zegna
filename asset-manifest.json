@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-react-zegna/static/css/main.12e87a89.css",
+    "main.js": "/my-react-zegna/static/js/main.7043e9bf.js",
+    "static/media/main_visual02.png": "/my-react-zegna/static/media/main_visual02.d98fd7abe3122390a1ac.png",
+    "static/media/main_visual05.png": "/my-react-zegna/static/media/main_visual05.71b9fe23a259cfa06bd4.png",
+    "static/media/achillfam-australia.png": "/my-react-zegna/static/media/achillfam-australia.5080d7ddc15946d3ff20.png",
+    "static/media/main_visual04.png": "/my-react-zegna/static/media/main_visual04.8762aedcf0fcdb5659a3.png",
+    "static/media/main_visual03.png": "/my-react-zegna/static/media/main_visual03.2e7c1e71866868960317.png",
+    "static/media/main_visual01.png": "/my-react-zegna/static/media/main_visual01.39e7f133f425959fb858.png",
+    "index.html": "/my-react-zegna/index.html",
+    "main.12e87a89.css.map": "/my-react-zegna/static/css/main.12e87a89.css.map",
+    "main.7043e9bf.js.map": "/my-react-zegna/static/js/main.7043e9bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12e87a89.css",
+    "static/js/main.7043e9bf.js"
+  ]
+}
