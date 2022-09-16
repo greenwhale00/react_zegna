@@ -29,7 +29,7 @@ const MainContent = () => {
         //dots: true,
         afterChange: index => setIDX(index),
         autoplay: true,
-        autoplaySpeed: 100,
+        autoplaySpeed: 3000,
         // fade: true,
         pauseOnHover: false,
         pauseOnFocus: false,
