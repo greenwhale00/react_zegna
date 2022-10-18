@@ -1,11 +1,11 @@
-import '../css/Main.scss'
+import { Link, NavLink } from 'react-router-dom'
 
 
 const NAVLINK = [
-    { id: 1, menu: "Oasi Cashmere 컬렉션", link: '/' },
-    { id: 2, menu: "신제품", link: '/' },
-    { id: 3, menu: "레디 투 웨어", link: '/' },
-    { id: 4, menu: "제냐의 세계", link: '/' },
+    { id: 1, menu: "Oasi Cashmere 컬렉션", link: '/oasi-collection' },
+    { id: 2, menu: "신제품", link: '/new-in' },
+    { id: 3, menu: "레디 투 웨어", link: '/ready-to-wear' },
+    { id: 4, menu: "제냐의 세계", link: '/our-world' },
 ]
 
 
@@ -18,9 +18,7 @@ const Header = () => {
                         {
                             NAVLINK.map((it, idx) => {
                                 return (
-                                    <li key={it.id}>
-                                        <a href={it.link}>{it.menu}</a>
-                                    </li>
+                                    <li key={it.id}><NavLink to={it.link}>{it.menu}</NavLink></li>
                                 )
                             })
                         }
