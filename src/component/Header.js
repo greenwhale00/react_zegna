@@ -1,3 +1,6 @@
+import '../css/Main.scss'
+
+
 const NAVLINK = [
     { id: 1, menu: "Oasi Cashmere 컬렉션", link: '/' },
     { id: 2, menu: "신제품", link: '/' },
