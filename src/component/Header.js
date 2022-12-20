@@ -1,4 +1,4 @@
-import { Link, NavLink } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
 
 const NAVLINK = [
@@ -18,7 +18,7 @@ const Header = () => {
                         {
                             NAVLINK.map((it, idx) => {
                                 return (
-                                    <li key={it.id}><NavLink to={it.link}>{it.menu}</NavLink></li>
+                                    <li key={it.id}><Link to={it.link}>{it.menu}</Link></li>
                                 )
                             })
                         }
