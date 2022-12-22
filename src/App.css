@@ -48,6 +48,7 @@ body {
   z-index: 9999;
   line-height: 70px;
   color: #000; vertical-align: middle;
+  font-weight: 500;
 }
 
 .hd_wrap {
@@ -78,7 +79,7 @@ body {
 }
 
 .MainVisual {
-  margin-bottom: 100px;
+  margin-bottom: 150px;
 }
 
 
