@@ -32,7 +32,8 @@ const MainVisual = () => {
 
     return (
         <section className='MainVisual'>
-            <Slider {...setting} ref={mainSlide}>
+            <video src={process.env.PUBLIC_URL + "/assets/video.mp4"} />
+            {/* <Slider {...setting} ref={mainSlide}>
                 {
                     SLIDE.map((slide, idx) => {
                         return (
@@ -46,7 +47,7 @@ const MainVisual = () => {
                         )
                     })
                 }
-            </Slider>
+            </Slider> */}
 
 
         </section>
