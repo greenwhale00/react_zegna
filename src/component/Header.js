@@ -24,7 +24,7 @@ const Header = () => {
                         }
                     </ul>
                 </nav>
-                <h1><a href="/"><img src={`${process.env.PUBLIC_URL}/assets/logo.svg`} alt="제냐" /></a></h1>
+                <h1><a href="/"><img src={process.env.PUBLIC_URL + "/assets/Logo_Zegna.png"} alt="제냐" /></a></h1>
                 <div className="icon">
                     <a href=""> <i className='xi-search'></i></a>
                 </div>

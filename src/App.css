@@ -77,6 +77,19 @@ body {
   font-size: 19px;
 }
 
+.MainVisual {
+  margin-bottom: 100px;
+}
+
+
+.MainVisual video {
+  height: 800px;
+  width: 100%;
+  object-fit: cover;
+}
+
+
+
 .MainVisual figure {
   position: relative;
   width: 100%;
@@ -86,6 +99,11 @@ body {
   background-size: cover;
   margin: 0 0 100px 0;
 }
+
+
+
+
+
 
 .MainVisual .number01 {
   background-image: url(../public/assets/main_visual01.png) ;
