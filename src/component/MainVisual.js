@@ -35,9 +35,9 @@ const MainVisual = () => {
 
 
 
-            <video muted loop src>
-                <source src={process.env.PUBLIC_URL + "/assets/video.mp4"} type="video/mp4" />
-            </video>
+            <video muted autoPlay loop
+                src={process.env.PUBLIC_URL + "/assets/video.mp4"} />
+
 
 
             {/* <Slider {...setting} ref={mainSlide}>
