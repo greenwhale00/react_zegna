@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_zegna/static/css/main.f78ba061.css",
-    "main.js": "/react_zegna/static/js/main.b3f00995.js",
+    "main.css": "/react_zegna/static/css/main.fca301bf.css",
+    "main.js": "/react_zegna/static/js/main.0990d82f.js",
     "static/media/main_visual02.png": "/react_zegna/static/media/main_visual02.d98fd7abe3122390a1ac.png",
     "static/media/main_visual05.png": "/react_zegna/static/media/main_visual05.71b9fe23a259cfa06bd4.png",
     "static/media/achillfam-australia.png": "/react_zegna/static/media/achillfam-australia.5080d7ddc15946d3ff20.png",
@@ -9,11 +9,11 @@
     "static/media/main_visual03.png": "/react_zegna/static/media/main_visual03.2e7c1e71866868960317.png",
     "static/media/main_visual01.png": "/react_zegna/static/media/main_visual01.39e7f133f425959fb858.png",
     "index.html": "/react_zegna/index.html",
-    "main.f78ba061.css.map": "/react_zegna/static/css/main.f78ba061.css.map",
-    "main.b3f00995.js.map": "/react_zegna/static/js/main.b3f00995.js.map"
+    "main.fca301bf.css.map": "/react_zegna/static/css/main.fca301bf.css.map",
+    "main.0990d82f.js.map": "/react_zegna/static/js/main.0990d82f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f78ba061.css",
-    "static/js/main.b3f00995.js"
+    "static/css/main.fca301bf.css",
+    "static/js/main.0990d82f.js"
   ]
 }
