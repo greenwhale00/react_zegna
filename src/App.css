@@ -90,7 +90,7 @@ body {
 
 
 .MainVisual video {
-  height: 800px;
+  height: 100vh;
   width: 100vw;
   object-fit: cover;
 }
