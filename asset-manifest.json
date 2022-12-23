@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_zegna/static/css/main.0d444d0f.css",
+    "main.css": "/react_zegna/static/css/main.b82b8323.css",
     "main.js": "/react_zegna/static/js/main.0990d82f.js",
     "static/media/main_visual02.png": "/react_zegna/static/media/main_visual02.d98fd7abe3122390a1ac.png",
     "static/media/main_visual05.png": "/react_zegna/static/media/main_visual05.71b9fe23a259cfa06bd4.png",
@@ -9,11 +9,11 @@
     "static/media/main_visual03.png": "/react_zegna/static/media/main_visual03.2e7c1e71866868960317.png",
     "static/media/main_visual01.png": "/react_zegna/static/media/main_visual01.39e7f133f425959fb858.png",
     "index.html": "/react_zegna/index.html",
-    "main.0d444d0f.css.map": "/react_zegna/static/css/main.0d444d0f.css.map",
+    "main.b82b8323.css.map": "/react_zegna/static/css/main.b82b8323.css.map",
     "main.0990d82f.js.map": "/react_zegna/static/js/main.0990d82f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d444d0f.css",
+    "static/css/main.b82b8323.css",
     "static/js/main.0990d82f.js"
   ]
 }
