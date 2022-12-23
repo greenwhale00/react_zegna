@@ -24,12 +24,16 @@ const Header = () => {
                         }
                     </ul>
                 </nav>
-                <h1><a href="/"><img src={process.env.PUBLIC_URL + "/assets/Logo_Zegna.png"} alt="제냐" /></a></h1>
+                <h1>
+                    <Link to='/'>
+                        <img src={process.env.PUBLIC_URL + '/assets/logologo.svg'} alt="제냐" />
+                    </Link>
+                </h1>
                 <div className="icon">
-                    <a href=""> <i className='xi-search'></i></a>
+                    <Link to='/'><i className='xi-search'></i></Link>
                 </div>
             </div>
-        </header>
+        </header >
     )
 }
 
